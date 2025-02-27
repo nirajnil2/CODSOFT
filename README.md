@@ -35,9 +35,9 @@ pngwing.com.png — Image used in the About Us section
 
 📦 Setup
 
-Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+
+
 
 Navigate into the project folder:
 
